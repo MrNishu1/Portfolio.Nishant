@@ -54,7 +54,7 @@ nav ul li {
   display: inline-block;
   position: relative;
   list-style: none;
-  margin: 40px 90px;
+  margin: 40px 75px;
   z-index: 9999;
   left: 90%;
 }
